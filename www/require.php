@@ -32,6 +32,6 @@ function SQLConnect(){
 }
 
 /** Create an SQL connection **/
-$SQLCON = SQLConnect();
+//$SQLCON = SQLConnect();
 		
 ?>
