@@ -82,7 +82,7 @@ function es($message){
 }
 
 function debug($message){
-	echo $message . '<br />';
+	//echo $message . '<br />';
 }
 
 /*

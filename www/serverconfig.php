@@ -3,7 +3,7 @@ define('IS_PRODUCTION',false);
 
 define('SITE_LABEL','marcusball');
 define('SITE_NAME','Marcus Ball');
-define('SITE_DOMAIN','www.marcusball.me');
+define('SITE_DOMAIN_TOP','marcusball.me');
 define('SITE_DOMAIN','www.'.SITE_DOMAIN_TOP); //Primary (sub)domain of this website (www.example.com / example.com).
 define('DB_PDO_NAME','pgsql'); // The PDO name for your database server
 define('DB_NAME', '');

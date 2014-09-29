@@ -9,7 +9,8 @@ define('SERVER_INI_FILE','server/config.ini');
 //Use the format "/path/to/file.php" => "/file/(?'option'\w+)"
 //In side of PageObject scripts, you'll be able to access the results using the arg('option') and issetArg('option) functions. 
 $REWRITE_RULES = array(
-	'test.php' => "/test/(?'num'\d+)"
+	//'test.php' => "/test/(?'num'\d+)"
+	'resume.php' => '/resume/?'
 );
 
 /****************************************************************/
