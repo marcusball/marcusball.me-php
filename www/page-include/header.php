@@ -11,7 +11,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 		<link rel="icon" href="/favicon.ico" type="image/ico" />
-		<link rel="stylesheet" href="/res/styles/normalizer.css" />
+		<link rel="stylesheet" href="/res/styles/normalize.css" />
 		<link rel="stylesheet" href="/res/styles/foundation.css" />
 		<link rel="stylesheet" href="/res/styles/main.css" />
 		<script src="/res/scripts/foundation/vendor/modernizr.js"></script>
