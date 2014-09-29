@@ -40,7 +40,7 @@
 								<p>Want to creep my social networking profiles?</p>
 							</div>
 							<div class="large-2 columns">
-								<a href="//www.facebook.com/200.ok" class="radius button right">Facebook</a>
+								<a href="//www.twitter.com/marcusaball" class="radius button right">Twitter</a>
 							</div>
 							<div class="large-2 columns">
 								<a href="http://www.linkedin.com/pub/marcus-ball/42/64a/b08/" class="radius button right">LinkedIn</a>
