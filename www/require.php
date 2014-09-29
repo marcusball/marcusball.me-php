@@ -203,7 +203,8 @@ $INIT_LIGHT = ($INIT_LIGHT === true)?true:false; //Make sure this is false if th
 init($INIT_LIGHT); //Import stuff
 
 /** Create an SQL connection **/
-$SQLCON = SQLConnect();
+require_once 'nodatabasecontroller.php';
+$SQLCON = new NoDatabaseController(); //SQLConnect();
 $USER = new CurrentUser(); //Keep these in global scope
 $FORMKEYMAN = null; //Keep these in global scope
 
